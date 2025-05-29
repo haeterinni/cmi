@@ -23,7 +23,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![Ilustración_sin_título (15)](https://github.com/user-attachments/assets/37aa5572-6bf0-4a7e-aad6-19fce1d5fe51)
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 900x500
 
 **Probado en:**   Google Chrome
 
