@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** :
 
-(C:%5CUsers%5CPortatil_Joaquin%5CDownloads%5CIlustracio%CC%81n_sin_ti%CC%81tulo%20%2815%29.png)
+![Ilustración_sin_título (15)](https://github.com/user-attachments/assets/37aa5572-6bf0-4a7e-aad6-19fce1d5fe51)
 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
@@ -39,13 +39,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: @haeterinni
 
 
-![girl]()
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-![Ilustración_sin_título (15)](https://github.com/user-attachments/assets/37aa5572-6bf0-4a7e-aad6-19fce1d5fe51)
+![Ilustración_sin_título (1)](https://github.com/user-attachments/assets/3d6f3c43-eec4-459b-b2e2-e3b4fc0fa4fc)
+
 
 
 
@@ -53,7 +52,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.2. Esquema de navegación 
 
 
-![enter image description here](C:%5CUsers%5CPortatil_Joaquin%5CDownloads%5CIMG_4741.jpg)
+![IMG_4741](https://github.com/user-attachments/assets/c3f6c231-4f76-46ef-8a82-080cf3fb5069)
 
 
 
@@ -128,7 +127,7 @@ Por otro lado, el juego cuenta con una **galería de imágenes**, accesible desd
 ### Etapa 3: Problemas identificados
 
 -   En la ventana del menú principal del juego, es posbile que en ocasiones, al hacer click sobre los botones estos tarden un poco en cargar para acceder a la siguiente pantalla. No obstante, esto es un error mínimo ya que estos funcionan correctamente.
-- 
+
 - -Dentro del minijuego, el jugador debe hacer click en las diferentes verduras para ganar puntos, pero si hace click fuera de cada elemento, es posible que también le de puntos igualmente.
 
 
@@ -165,14 +164,14 @@ _RayanGamedev. (2022, 21 diciembre). How to Make a Game |Fruit Collector Game | 
    
 * Tipografía:
   
-- Hey Comic (Dafont)
-- DM Sans (Google Fonts)
+  - Hey Comic (Dafont)
+  - DM Sans (Google Fonts)
 
 **Herramientas utilizadas**
 
-- Godot 4.4
-- Procreate
-- Photoshop
+  - Godot 4.4
+  - Procreate
+  - Photoshop
 
 
 
