@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** :
 
-![El título del juego hace referencia a la Area 51 de Nevada, Estados Unidos. Lugar reconocido por la posible presencia de seres u objetos extraterrestres. Con este nombre, se hace alusión de forma indirecta a lo relacionado con lo extraterrestre.](C:%5CUsers%5CPortatil_Joaquin%5CDownloads%5CIlustracio%CC%81n_sin_ti%CC%81tulo%20%2815%29.png)
+(C:%5CUsers%5CPortatil_Joaquin%5CDownloads%5CIlustracio%CC%81n_sin_ti%CC%81tulo%20%2815%29.png)
 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
