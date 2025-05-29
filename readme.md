@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : COCINA 51
 
-**Web:**   (url github.io)
+**Web:**   https://haeterinni.itch.io/cocina51
 
 **Autor:**  (Isabel González Ruiz)
 
